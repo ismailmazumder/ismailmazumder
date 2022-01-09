@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, My name is Ismail Mazumder
+#### I am  a programmer. 
+![I am  a programmer. ](https://github.githubassets.com/images/modules/logos_page/Octocat.png)
+
+I made the project just for fun.  I am not a professional developer. I am a school-going boy.
+
+Skills: Python , C , HTML, JAVA
+
+- 🔭 I’m currently working on this page. 
 
 
-**im087921/im087921** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/im087921)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/imismailmazumder)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sites.google.com/view/ismailmazumderweb/home)  
 
