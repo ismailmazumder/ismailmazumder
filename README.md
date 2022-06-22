@@ -4,15 +4,7 @@ I made the project just for fun.  I am not a professional developer. I am a scho
 
 Skills: Python , C++ , JAVA
 
-
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/imismailmazumder) 
-
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=im087921)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=im087921)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=im087921&show_icons=true)  
 
