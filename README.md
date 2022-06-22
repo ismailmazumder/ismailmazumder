@@ -1,10 +1,8 @@
 ### Hi there 👋, My name is Ismail Mazumder
 #### I am  a programmer. 
-![]
-
 I made the project just for fun.  I am not a professional developer. I am a school-going boy.
 
-Skills: Python , C , HTML , JAVA
+Skills: Python , C++ , JAVA
 
 
 
