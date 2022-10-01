@@ -9,16 +9,13 @@
 ### <div align="center">I am Ismail</div>  
   
 
-- I am   
+- 🌱 I’m currently learning Assembly.
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
+- ❓ Ask me about anything about Python. 
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: I am noob.  
   
 
 <br/>  
