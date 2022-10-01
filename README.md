@@ -1,15 +1,9 @@
 
 
 ### Hi! I am Ismail Mazumder.  
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
+
 
 ### <div align="center">I am Ismail</div>  
-  
-
-- I am   
   
 
 - 🌱 I’m currently learning Hyperledger and Kubernetes  
@@ -133,5 +127,4 @@
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
