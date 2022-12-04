@@ -1,28 +1,10 @@
 
 
 ### Hi! I am Ismail Mazumder.  
-
-
-### <div align="center">I am Ismail</div>  
-  
-
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
-
+### <div align="center"></div>  
 <br/>  
-
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
-
 ### Frontend  
 <div align="center">  
 <a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" /></a>  
