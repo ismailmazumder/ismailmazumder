@@ -1,15 +1,6 @@
-
-
 ### Hi! I am Ismail Mazumder.  
 ### <div align="center"></div>  
 <br/>  
-
-
-
-
-
-
-
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/ismailmazumder" target="_blank">
@@ -40,13 +31,6 @@
 
 
 ## Recent Blog Posts  
-  
-
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=ismailmazumder&&style=flat-square" align="center" />
