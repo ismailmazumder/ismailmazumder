@@ -1,10 +1,10 @@
-<div align="center">
+ <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:FFC0D9,50:F7A8C8,100:E9B1D0&text=Ismail%20Mazumder&fontColor=382536&fontSize=42&fontAlignY=38&animation=fadeIn" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=1000&color=F48FB1&center=true&vCenter=true&width=550&lines=Student+%7C+Programmer;Exploring+technology+and+science;Building+things+with+code;Always+learning+something+new." />
 
-<br>
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=ismailmazumder&style=flat-square&color=F4A7C5&label=PROFILE+VIEWS" />
 
@@ -12,11 +12,9 @@
 
 <br>
 
-<div align="center">
+<img align="right" width="190" src="./assets/mascot.png" alt="Cute ninja mascot"/>
 
 ### ୨୧ About Me
-
-</div>
 
 ```yaml
 name: Ismail Mazumder
@@ -28,7 +26,13 @@ interests:
   - Science & Technology
 ```
 
+<br clear="right"/>
+
 <div align="center">
+
+<sub>🥷 unofficial README guardian. unpaid, obviously.</sub>
+
+<br><br>
 
 ### ♡ Technologies
 
@@ -38,6 +42,8 @@ interests:
 <img src="https://img.shields.io/badge/Linux-F4A7C5?style=flat-square&logo=linux&logoColor=382536"/>
 <img src="https://img.shields.io/badge/Git-F4A7C5?style=flat-square&logo=git&logoColor=382536"/>
 <img src="https://img.shields.io/badge/AI-F4A7C5?style=flat-square&logo=openai&logoColor=382536"/>
+
+<br><br>
 
 ### ♡ Connect With Me
 
@@ -54,12 +60,20 @@ interests:
 <img src="https://img.shields.io/badge/DEV.TO-302432?style=for-the-badge&logo=dev.to&logoColor=FFC0D9"/>
 </a>
 
+<br><br>
+
 ### ♡ GitHub Statistics
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ismailmazumder&show_icons=true&hide_border=true&bg_color=1A1420&title_color=FF9ECF&icon_color=FF79B0&text_color=EBDDE5&rank_icon=github"/>
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismailmazumder&layout=compact&hide_border=true&bg_color=1A1420&title_color=FF9ECF&text_color=EBDDE5"/>
 
+<br>
+
 <img width="65%" src="https://streak-stats.demolab.com?user=ismailmazumder&background=1A1420&ring=FF9ECF&fire=FF79B0&currStreakLabel=FFB6D9&sideNums=EBDDE5&sideLabels=C8B5C2&dates=9B8795&hide_border=true"/>
+
+<br><br>
+
+<sub>♡ made with questionable amounts of pink ♡</sub>
 
 </div>
 
