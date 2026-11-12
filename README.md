@@ -12,7 +12,7 @@
 
 <br>
 
-<img align="right" width="190" src="./assets/mascot.png" alt="Cute ninja mascot"/>
+<img align="right" width="190" src="./one.png" alt="Cute ninja mascot"/>
 
 ### ୨୧ About Me
 
